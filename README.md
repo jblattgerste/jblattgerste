@@ -8,6 +8,8 @@ My research interests are head-mounted, handheld and projection-based Augmented 
 
 In my Ph.D. thesis, I am especially interested in the development and design space of Augmented Reality authoring tools, enabling (non-programmer) domain experts with varying levels of media competency to develop their own Augmented Reality training scenarios.
 
+For my work on Augmented Reality interaction concepts and content authoring tools, usability was always a crucial success factor. As I liked the System Usability Scale and deployed it regularly for years, I always wanted to make it more approachable. Therefore, as a side project, the SUS Analysis Toolkit and the SUS PDF Generator are my attempts at aiding my own research goals but also making the SUS (and the vast amounts of consequent literature and insights on it) more accessible and approachable to others.
+
 As I am an open science and open source advocate, I am trying to share as much as possible here.
 
 For more information, check out my...
