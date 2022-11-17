@@ -13,9 +13,8 @@ For my work on Augmented Reality interaction concepts and content authoring tool
 As I am an open science and open source advocate, I am trying to share as much as possible here.
 
 For more information, check out my...
+- Personal homepage: https://www.blattgerste.dev/
 - Researchgate profile: https://www.researchgate.net/profile/Jonas-Blattgerste
 - LinkedIn profile: https://www.linkedin.com/in/jonas-blattgerste/
 - Google Scholar publications:  https://scholar.google.de/citations?user=k2xymcIAAAAJ&hl=en&oi=ao
 - Youtube channel: https://www.youtube.com/channel/UCsL7X-ZIsghoyZrZiG4aUNA
-- Personal homepage: https://mixality.de/sciencex_teams/jonas-blattgerste/
-- Heb@AR project homepage: https://mixality.de/hebar/
