@@ -1,6 +1,6 @@
 ![Header](https://github.com/jblattgerste/jblattgerste/blob/main/header.jpg?raw=true)
 
-## Moin! I am Jonas and I work on Augmented Reality :man_technologist:
+## Moin! I am Jonas and I work on Mixed Reality :man_technologist:
 
 I am a Human–Computer Interaction Researcher and Augmented & Mixed Reality Developer. Currently, I am a Postdoctoral Researcher at the University of Applied Sciences Niederrhein. Previously, I studied Cognitive Informatics (B.Sc.) and Intelligent Systems (M.Sc.) at Bielefeld University and worked at University of Applied Sciences Emden/Leer during my Ph.D.
 
@@ -15,4 +15,4 @@ For more information, check out my...
 - Researchgate profile: https://www.researchgate.net/profile/Jonas-Blattgerste
 - LinkedIn profile: https://www.linkedin.com/in/jonas-blattgerste/
 - Google Scholar publications:  https://scholar.google.de/citations?user=k2xymcIAAAAJ&hl=en&oi=ao
-- Youtube channel: https://www.youtube.com/channel/UCsL7X-ZIsghoyZrZiG4aUNA
+- Youtube channel: https://www.youtube.com/@blattgerste
