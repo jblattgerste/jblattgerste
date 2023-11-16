@@ -2,7 +2,7 @@
 
 ## Moin! I am Jonas and I work on Mixed Reality :man_technologist:
 
-I am a Human–Computer Interaction Researcher and Augmented & Mixed Reality Developer. Currently, I am a Postdoctoral Researcher at the University of Applied Sciences Niederrhein. Previously, I studied Cognitive Informatics (B.Sc.) and Intelligent Systems (M.Sc.) at Bielefeld University and worked at University of Applied Sciences Emden/Leer during my Ph.D.
+I am a Human–Computer Interaction Researcher and Augmented & Mixed Reality Developer. Currently, I am a Postdoctoral Researcher at the Niederrhein University of Applied Sciences. Previously, I studied Cognitive Informatics (B.Sc.) and Intelligent Systems (M.Sc.) at Bielefeld University and worked at University of Applied Sciences Emden/Leer during my Ph.D.
 
 My research interests are head-mounted, handheld and projection-based Augmented Reality approaches for training and assistance in work environments, educational settings and to assist cognitively impaired people. In my Ph.D. thesis, I was especially interested in the development and design space of Augmented Reality authoring tools, enabling (non-programmer) domain experts with varying levels of media competency to develop their own Augmented Reality content.
 
@@ -11,8 +11,24 @@ For my work on Augmented Reality interaction concepts and content authoring tool
 As I am an open science and open source advocate, I am trying to share as much as possible here.
 
 For more information, check out my...
-- Personal homepage: https://www.blattgerste.dev/
-- Researchgate profile: https://www.researchgate.net/profile/Jonas-Blattgerste
-- LinkedIn profile: https://www.linkedin.com/in/jonas-blattgerste/
-- Google Scholar publications:  https://scholar.google.de/citations?user=k2xymcIAAAAJ&hl=en&oi=ao
-- Youtube channel: https://www.youtube.com/@blattgerste
+
+<a href="https://www.blattgerste.dev/">
+    <img src="Icons/homepage.svg" width="40" height="40" alt="Personal Homepage">
+</a> Personal homepage: https://www.blattgerste.dev/
+<br>
+<a href="https://www.researchgate.net/profile/Jonas-Blattgerste">
+    <img src="Icons/researchgate.svg" width="40" height="40" alt="ResearchGate Profile">
+</a> ResearchGate profile: https://www.researchgate.net/profile/Jonas-Blattgerste
+<br>
+<a href="https://www.linkedin.com/in/jonas-blattgerste/">
+    <img src="Icons/linkedin.svg" width="40" height="40" alt="LinkedIn Profile">
+</a> LinkedIn profile: https://www.linkedin.com/in/jonas-blattgerste/
+<br>
+<a href="https://scholar.google.de/citations?user=k2xymcIAAAAJ&hl=en&oi=ao">
+    <img src="Icons/google.svg" width="40" height="40" alt="Google Scholar Publications">
+</a> Google Scholar publications: https://scholar.google.de/citations?user=k2xymcIAAAAJ&hl=en&oi=ao
+<br>
+<a href="https://www.youtube.com/@blattgerste">
+    <img src="Icons/youtube.svg" width="40" height="40" alt="YouTube Channel">
+</a> YouTube channel: https://www.youtube.com/@blattgerste
+
