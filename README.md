@@ -1,8 +1,6 @@
-![Header](https://github.com/jblattgerste/jblattgerste/blob/main/header.jpg?raw=true)
-
 ## Moin! I am Jonas and I work on Mixed Reality :man_technologist:
 
-I am a Human–Computer Interaction Researcher and Augmented & Mixed Reality Developer. Currently, I am a Postdoctoral Researcher at the Niederrhein University of Applied Sciences. Previously, I studied Cognitive Informatics (B.Sc.) and Intelligent Systems (M.Sc.) at Bielefeld University and worked at University of Applied Sciences Emden/Leer during my Ph.D.
+I research and develop Augmented & Mixed Reality stuff. Currently, I am the Mixed Reality Tech Lead at Raumtänzer GmbH. Previously, I was a Research and Development Engineer at the SMS group GmbH, a Postdoctoral Researcher at the Niederrhein University of Applied Sciences, and a Research Associate at the University of Applied Sciences Emden/Leer. I studied Cognitive Informatics (B.Sc.), Intelligent Systems (M.Sc.) and Computer Science (Ph.D.) at Bielefeld University.
 
 My research interests are head-mounted, handheld and projection-based Augmented Reality approaches for training and assistance in work environments, educational settings and to assist cognitively impaired people. In my Ph.D. thesis, I was especially interested in the development and design space of Augmented Reality authoring tools, enabling (non-programmer) domain experts with varying levels of media competency to develop their own Augmented Reality content.
 
